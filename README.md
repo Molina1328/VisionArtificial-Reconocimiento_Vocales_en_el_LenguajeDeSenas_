@@ -14,10 +14,10 @@ En el presente proyecto se desarrollan varios experimentos preliminares para con
   <li>SVM-Linear Kernel</li>
   <li>CNN-Attention Module</li>
   <li>CNN-GAN</li>
-</ul>
+  </ul>
    <p align="justify " >Para el modelo GAN se hace referencia al siguiente link del drive, en donde se puede visualizar los archivos creados al ejecutar dicho modelo</p>
    
-    <ul>
+<ul>
   <li>Archivos resultantes CNN-GAN: https://drive.google.com/drive/folders/1lsiowVq1QTQ4R0Wltd1cg3elCXnpWAq_?usp=sharing/li>
 </ul>
    
