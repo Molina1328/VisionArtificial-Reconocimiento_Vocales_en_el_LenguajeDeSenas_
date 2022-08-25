@@ -18,7 +18,7 @@ En el presente proyecto se desarrollan varios experimentos preliminares para con
    <p align="justify " >Para el modelo GAN se hace referencia al siguiente link del drive, en donde se puede visualizar los archivos creados al ejecutar dicho modelo</p>
    
 <ul>
-  <li>Archivos resultantes CNN-GAN: https://drive.google.com/drive/folders/1lsiowVq1QTQ4R0Wltd1cg3elCXnpWAq_?usp=sharing/li>
+  <li>Archivos resultantes CNN-GAN: https://drive.google.com/drive/folders/1lsiowVq1QTQ4R0Wltd1cg3elCXnpWAq_?usp=sharing </li>
 </ul>
    
  <p align="justify " >Cabe recalcar, que dichos modelos cuentan con sus respectivas matriz de confusión. La cual es utilizada para estimar el rendimiento del modelo escogido. De este se puede calcular la precisión, y el accurancy.</p>
