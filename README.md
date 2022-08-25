@@ -31,6 +31,6 @@ En la siguiente Figura se detalla la metodología utilizada para el presente pro
   <img src="metodo.png" width="600" title="hover text">
  
 </p>
-  <ul>
-  <li>DataSet: https://drive.google.com/drive/folders/1fRR33yztIbWItfLUbf0X2JFUY_LmWqwS?usp=sharing /li>
+<ul>
+  <li>DataSet: https://drive.google.com/drive/folders/1fRR33yztIbWItfLUbf0X2JFUY_LmWqwS?usp=sharing </li>
 </ul>
